@@ -2,6 +2,10 @@
 
 Async order processing microservice. Accepts orders via HTTP, processes them in the background through RabbitMQ, stores everything in PostgreSQL.
 
+## Task Overview
+
+This is a solution to the Entravel Senior .NET Engineer technical task. For the complete task requirements and specifications, see [TASK.md](TASK.md).
+
 ## Run
 
 ```bash
